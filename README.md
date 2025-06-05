@@ -2,7 +2,7 @@ Evaluation of full-length 16S rRNA gene sequencing using Oxford Nanopore for div
 V.Y. Li *1, R. González-Pech 1, V. Román-Reyna 2, D. Lera-Lozano 1, and M. Medina 1
 1 Department of Biology, Eberly College of Science, Pennsylvania State University, University Park, PA, USA
 2 Department of Plant Pathology and Environmental Microbiology, College of Agricultural Sciences, Pennsylvania State University, University Park, PA, USA
-* vivianli@psu.edu
+*vivianli@psu.edu
 
 References
 Ames, C. L., Ohdera, A. H., Colston, S. M., Collins, A. G., Fitt, W. K., Morandini, A. C., Erickson, J. S., & Vora, G. J. (2021). Fieldable Environmental DNA Sequencing to Assess Jellyfish Biodiversity in Nearshore Waters of the Florida Keys, United States. Frontiers in Marine Science, 8. https://doi.org/10.3389/fmars.2021.640527
