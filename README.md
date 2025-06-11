@@ -1,5 +1,5 @@
 # Evaluation of full-length 16S rRNA gene sequencing using Oxford Nanopore for diversity surveys of complex, understudied microbiomes
-V.Y. Li \*<sup>1</sup>, R. González-Pech <sup>1</sup>, V. Román-Reyna <sup>2</sup>, D. Lera-Lozano <sup>1</sup>, and M. Medina <sup>1</sup>  
+V.Y. Li\*<sup>1</sup>, R. González-Pech<sup>1</sup>, V. Román-Reyna<sup>2</sup>, D. Lera-Lozano<sup>1</sup>, and M. Medina<sup>1</sup>  
 <sup>1</sup> Department of Biology, Eberly College of Science, Pennsylvania State University, University Park, PA, USA  
 <sup>2</sup> Department of Plant Pathology and Environmental Microbiology, College of Agricultural Sciences, Pennsylvania State University, University Park, PA, USA  
 \*vivianli@psu.edu  
