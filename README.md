@@ -2,7 +2,7 @@
 V.Y. Li <sup>*1</sup>, R. González-Pech <sup>1</sup>, V. Román-Reyna <sup>2</sup>, D. Lera-Lozano <sup>1</sup>, and M. Medina <sup>1</sup>  
 <sup>1</sup> Department of Biology, Eberly College of Science, Pennsylvania State University, University Park, PA, USA  
 <sup>2</sup> Department of Plant Pathology and Environmental Microbiology, College of Agricultural Sciences, Pennsylvania State University, University Park, PA, USA  
-<sup>*</sup> vivianli@psu.edu  
+<sup>*</sup>vivianli@psu.edu  
 
 ## References
 1. Ames, C. L., Ohdera, A. H., Colston, S. M., Collins, A. G., Fitt, W. K., Morandini, A. C., Erickson, J. S., & Vora, G. J. (2021). Fieldable Environmental DNA Sequencing to Assess Jellyfish Biodiversity in Nearshore Waters of the Florida Keys, United States. Frontiers in Marine Science, 8. https://doi.org/10.3389/fmars.2021.640527
